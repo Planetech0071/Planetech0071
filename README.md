@@ -1,6 +1,6 @@
 ## 👋 Heya. Planetech here.
 
-> Developer from ITALY. I build Discord bots with discord.py mostly, but started shifting towards AI and CyberSecurity.
+> Developer from ITALY. I build Automations for Companies mostly, and started shifting towards AI and CyberSecurity.
 
 > I am currently working on an app that pulls live location data from phones with OpenStreetMap to process and analyze movements.
 
